@@ -80,8 +80,8 @@ main {
   font-size: 50px;
   font-weight: bold;
   font-family: "Century Gothic";
-  margin-left: -350px;
-  width: 508px;
+  margin-left: -418px;
+  width: 362px;
   margin-top: 70px;
   line-height: 65px;
   background-color: #FFF246;
@@ -337,27 +337,30 @@ footer .art {
     display: none;
   }
 
+  .right {
+    height: 380px;
+  }
+
   .right h1 {
-    width: 200px;
-    margin-left: -582px;
+    margin-left: -501px;
   }
 
   .right p {
     left: 61px;
     font-size: 23px;
-    width: 423px;
+    width: 410px;
     line-height: 36px;
   }
 
   .right img {
-    width: 487px;
-    height: 444px;
+    width: 427px;
+    height: 317px;
     margin-left: 13px;
     margin-top: 71px;
   }
 
   .right-n img {
-    width: 487px;
+    width: 300px;
     height: 444px;
     margin-left: -957px;
     margin-top: 71px;
@@ -372,16 +375,18 @@ footer .art {
     left: 556px;
     font-size: 23px;
     width: 406px;
+    top: 750px;
     line-height: 36px;
   }
 
   .right-ne {
+    height: 500px;
     margin-top: -160px;
   }
 
   .right-ne h1 {
-    width: 384px;
-    margin-left: -491px;;
+    width: 527px;
+    margin-left: -418px;;
   }
 
   .right-ne p {
@@ -393,21 +398,66 @@ footer .art {
   }
 
   .right-ne img {
-    width: 487px;
+    width: 576px;
     height: 444px;
-    margin-left: 13px;
-    margin-top: 71px;
+    margin-left: -500px;
+    margin-top: 160px;
   }
 
-  .photo img {
-    width: 1024px;
-    margin-top: -183px;
+  .left {
+    height: 749px;
   }
 
-  .photo-1 img {
-    width: 1024px;
-    margin-top: -10px;
+  .left h1 {
+    margin-left: -384px;
   }
+
+  .left img {
+    width: 969px;
+    height: 665px;
+    margin-top: 103px;
+    margin-left: -476px;
+  }
+
+  .left-n  {
+    height: 500px;
+
+  }
+
+  .left-n h1 {
+    margin-left: -384px;
+  }
+
+  .left-n img {
+    width: 975px;
+    height: 314px;
+    margin-top: 137px;
+    margin-left: -475px;
+  }
+
+  .left-ne {
+    height: 1100px;
+  }
+
+  .left-ne h1 {
+    margin-left: -384px;
+  }
+
+  .left-ne img{
+    width: 1024px;
+    height: 700px;
+    margin-left: -440px;
+  }
+
+  .firmach {
+    height: 700px;
+  }
+
+  .firmach img {
+    width: 480px;
+  }
+
+
 
   footer p {
     font-size: 10px;
@@ -436,6 +486,7 @@ footer .art {
 
 
     .right h1 {
+      width: 200px;
       font-size: 35px;
       margin-top: 20px;
       margin-left: -582px;
@@ -449,7 +500,7 @@ footer .art {
 
     .right img {
       width: 297px;
-      height: 284px;
+      height: 227px;
       margin-left: -340px;
       margin-top: 19px;
     }
@@ -460,8 +511,8 @@ footer .art {
     }
 
     .right-n img {
-      width: 297px;
-      height: 284px;
+      width: 239px;
+      height: 304px;
       margin-left: -1143px;
       margin-top: 73px;
     }
@@ -485,8 +536,8 @@ footer .art {
 
     .right-ne h1 {
       font-size: 35px;
-      width: 332px;
-      margin-left: -518px;;
+      width: 365px;
+      margin-left: -504px;;
     }
 
     .right-ne p {
@@ -496,18 +547,75 @@ footer .art {
     }
 
     .right-ne img {
-      width: 297px;
-      height: 284px;
-      margin-left: -330px;
+      width: 533px;
+      height: 399px;
+      margin-left: -729px;
       }
 
-    .photo img {
-      width: 768px;
-    }
+      .left {
+        height: 549px;
+      }
 
-    .photo-1 img {
-      width: 768px;
-    }
+      .left h1 {
+        font-size: 35px;
+        width: 400px;
+        margin-left: -489px;
+      }
+
+      .left img {
+        width: 737px;
+        height: 465px;
+        margin-top: 103px;
+        margin-left: -720px;
+      }
+
+      .left-n  {
+        height: 350px;
+
+      }
+
+      .left-n h1 {
+        font-size: 35px;
+        width: 400px;
+        margin-left: -489px;
+      }
+
+      .left-n img {
+        width: 675px;
+        height: 214px;
+        margin-top: 137px;
+        margin-left: -741px;
+      }
+
+      .left-ne {
+        height: 800px;
+      }
+
+      .left-ne h1 {
+        font-size: 35px;
+        width: 405px;
+        margin-left: -489px;
+        line-height: 45px;
+      }
+
+      .left-ne img{
+        width: 768px;
+        height: 530px;
+        margin-top: 220px;
+        margin-left: -672px;
+      }
+
+      .firmach {
+        height: 500px;
+      }
+
+      .firmach img {
+        width: 352px;
+      }
+
+      .portfolio {
+        font-size: 20px;
+      }
 
     footer {
      height: 60px;
